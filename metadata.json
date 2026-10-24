@@ -1,0 +1,6 @@
+{
+  "name": "CivicSense",
+  "description": "AI-powered municipal complaint management system for smarter cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
